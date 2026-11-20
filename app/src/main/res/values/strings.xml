@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A07 Diagnostic</string>
+    <string name="stage1_title">A07 Diagnostic</string>
+    <string name="stage1_body">Kerangka Tahap 1. Belum ada fitur diagnostik. Aplikasi ini belum meminta izin apa pun saat dijalankan.</string>
+</resources>
